@@ -1,29 +1,71 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
+<html lang="eng">
+
   <head>
     <meta charset="utf-8">
-    <title>EITI sunburst</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Statoil 2014 Project Payments</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600">
     <link rel="stylesheet" type="text/css" href="css/style.css"/>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
   </head>
 
+
   <body>
-    <h1>Country -> Project -> Company</h1>
-    <form>
-      <label><input type="radio" name="mode" value="payment"> Payment $USD</label>
-      <label><input type="radio" name="mode" value="count" checked> Count</label>
-    </form>
-    <div id="main">
+      <div id="main">
+          <div>
+            <h1 class="text-center">2014 Statoil Project Payments</h1>
+          </div>
+          <!-- <div name="dropdown"></div> -->
+    
+         <!--  <select class="form-control">
+              <option name="mode" value="total">Total payments (NOK)</option>
+              <option name="mode" value="taxes">Tax payments (NOK)</option>
+              <option name="mode" value="royalties">Royalty payments (NOK)</option>
+              <option name="mode" value="fees">Fee payments (NOK)</option>
+              <option name="mode" value="bonuses">Bonus payments (NOK)</option>
+              <option name="mode" value="gov_entitlements_value">Government entitlements (NOK)</option>
+              <option name="mode" value="gov_entitlements_mmboe">Government entitlements (MMBOE</option>
+              <option name="mode" value="count">Count</option>
+
+          </select> -->
+    
+          <div>
+              <form>
+                  <label><input type="radio" name="mode" value="payment"> total</label>
+                  <label><input type="radio" name="mode" value="count" checked> Count</label>
+                </form>
+          </div>
+    
+    
+      <div name="dropdown"></div>
       <div id="sequence"></div>
-      <div id="chart">
-        <div id="explanation" style="visibility: hidden;">
-          <span><h2>DATA</h2></span></br>
-          <span id="node_name">Name</span><br/>
-          <span id="dollars">Dollars</span><br/>
+        <div id="chart">
+          <div id="explanation" style="visibility: hidden;">
+            <h2>
+              <span>Payments</span></br>
+              <small><span id="node_name">Name</span></small><br/>
+              <h4><span id="dollars">Dollars</span><br/></h4>
+            </h2>
+          </div>
         </div>
       </div>
-    </div>
-  </body>
 
-  <script src="scripts/d3.js"></script>
-  <script type="text/javascript" src="scripts/main.js"></script>
+    <!-- jQuery -->
+    <script src="//code.jquery.com/jquery.js"></script>
+    <!-- Bootstrap JavaScript -->
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <script src="scripts/d3.js"></script>
+    <script type="text/javascript" src="scripts/main.js"></script>
+  </body>
+</html>
