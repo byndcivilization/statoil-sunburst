@@ -1,0 +1,541 @@
+{
+    "name":"Statoil Project Payments",
+    "children":[
+        {
+            "name":"ALGERIA",
+            "country_code":"DZA",
+            "children":[
+                {
+                    "total":1,
+                    "name":"Statoil Algeria AS",
+                    "taxes":1
+                },
+                {
+                    "total":31,
+                    "name":"Statoil Hassi Mouina AS",
+                    "taxes":31
+                },
+                {
+                    "total":615,
+                    "name":"Statoil North Africa Gas AS",
+                    "taxes":614,
+                    "fees":0
+                },
+                {
+                    "total":985,
+                    "name":"Statoil North Africa Oil AS",
+                    "taxes":985
+                },
+                {
+                    "gov_entitlements_mmboe":3,
+                    "total":1296,
+                    "name":"In Amenas",
+                    "gov_entitlements_value":1296
+                },
+                {
+                    "gov_entitlements_mmboe":6,
+                    "total":2228,
+                    "name":"In Salah",
+                    "gov_entitlements_value":2228
+                }
+            ]
+        },
+        {
+            "name":"ANGOLA",
+            "country_code":"AGO",
+            "children":[
+                {
+                    "total":743,
+                    "name":"Statoil Angola Block 15 AS",
+                    "taxes":743
+                },
+                {
+                    "total":2000,
+                    "name":"Statoil Angola Block 17 AS",
+                    "taxes":2000
+                },
+                {
+                    "total":2,
+                    "name":"Statoil Angola Block 22 AS",
+                    "taxes":2
+                },
+                {
+                    "total":1,
+                    "name":"Statoil Angola Block 25 AS",
+                    "taxes":1
+                },
+                {
+                    "total":801,
+                    "name":"Statoil Angola Block 31 AS",
+                    "taxes":801
+                },
+                {
+                    "total":0,
+                    "name":"Statoil Angola Block 39 AS",
+                    "taxes":0
+                },
+                {
+                    "total":1,
+                    "name":"Statoil Angola Block 40 AS",
+                    "taxes":1
+                },
+                {
+                    "total":1514,
+                    "name":"Statoil Dezassete AS",
+                    "taxes":1514
+                },
+                {
+                    "total":25,
+                    "name":"Statoil Quatro AS",
+                    "taxes":25
+                },
+                {
+                    "total":32,
+                    "name":"Statoil Trinta e Quatro AS",
+                    "taxes":32
+                },
+                {
+                    "gov_entitlements_mmboe":0,
+                    "total":27,
+                    "name":"Block 4/05",
+                    "gov_entitlements_value":27
+                },
+                {
+                    "gov_entitlements_mmboe":14,
+                    "total":9188,
+                    "name":"Block 15",
+                    "gov_entitlements_value":9188
+                },
+                {
+                    "gov_entitlements_mmboe":14,
+                    "total":8455,
+                    "name":"Block 17",
+                    "gov_entitlements_value":8455
+                },
+                {
+                    "gov_entitlements_mmboe":1,
+                    "total":411,
+                    "name":"Block 31",
+                    "gov_entitlements_value":411
+                }
+            ]
+        },
+        {
+            "name":"AUSTRALIA",
+            "country_code":"AUS",
+            "children":[
+                {
+                    "total":0,
+                    "name":"Exploration licences offshore",
+                    "fees":0
+                },
+                {
+                    "total":2,
+                    "name":"Exploration licences onshore",
+                    "fees":2
+                }
+            ]
+        },
+        {
+            "name":"AZERBAIJAN",
+            "country_code":"AZE",
+            "children":[
+                {
+                    "total":603,
+                    "name":"Statoil Apsheron AS",
+                    "taxes":603
+                },
+                {
+                    "total":686,
+                    "name":"Statoil Shah Deniz AS",
+                    "taxes":686
+                },
+                {
+                    "gov_entitlements_mmboe":13,
+                    "total":8244,
+                    "name":"ACG",
+                    "gov_entitlements_value":8244
+                },
+                {
+                    "gov_entitlements_mmboe":2,
+                    "total":533,
+                    "name":"Shah Deniz",
+                    "gov_entitlements_value":533
+                }
+            ]
+        },
+        {
+            "name":"BRAZIL",
+            "country_code":"BRA",
+            "children":[
+                {
+                    "total":50,
+                    "name":"Statoil Brasil Oleo e Gas",
+                    "taxes":50
+                },
+                {
+                    "royalties":865,
+                    "total":1182,
+                    "name":"Peregrino",
+                    "fees":317
+                },
+                {
+                    "total":1,
+                    "name":"Exploration licences",
+                    "fees":1
+                }
+            ]
+        },
+        {
+            "name":"CANADA",
+            "country_code":"CAN",
+            "children":[
+                {
+                    "total":2,
+                    "name":"Statoil Canada Ltd.",
+                    "taxes":2
+                },
+                {
+                    "royalties":336,
+                    "total":336,
+                    "name":"Hibernia"
+                },
+                {
+                    "royalties":130,
+                    "total":140,
+                    "name":"Leismer",
+                    "fees":10
+                },
+                {
+                    "royalties":302,
+                    "total":302,
+                    "name":"Terra Nova"
+                },
+                {
+                    "total":6,
+                    "name":"Exploration licences offshore",
+                    "fees":6
+                }
+            ]
+        },
+        {
+            "name":"FAROE ISLANDS",
+            "country_code":"FRO",
+            "children":[
+                {
+                    "total":19,
+                    "name":"Statoil F\u00e6r\u00f8yene AS",
+                    "fees":19
+                }
+            ]
+        },
+        {
+            "name":"GREENLAND",
+            "country_code":"GRL",
+            "children":[
+                {
+                    "total":3,
+                    "name":"Statoil Greenland AS",
+                    "taxes":2,
+                    "fees":0
+                }
+            ]
+        },
+        {
+            "name":"INDONESIA",
+            "country_code":"IDN",
+            "children":[
+                {
+                    "total":0,
+                    "name":"PT Statoil Indonesia",
+                    "taxes":0
+                },
+                {
+                    "total":2,
+                    "name":"Statoil Indonesia AS",
+                    "taxes":2
+                },
+                {
+                    "total":4,
+                    "name":"Statoil Indonesia Halmahera II AS",
+                    "taxes":2,
+                    "fees":2
+                },
+                {
+                    "total":3,
+                    "name":"Statoil Indonesia Karama AS",
+                    "taxes":3
+                },
+                {
+                    "total":1,
+                    "name":"Statoil Indonesia North Ganal AS",
+                    "taxes":1
+                },
+                {
+                    "total":13,
+                    "name":"Statoil Indonesia North Makassar S. AS",
+                    "taxes":13
+                },
+                {
+                    "total":1,
+                    "name":"Statoil Indonesia Obi AS",
+                    "taxes":1
+                },
+                {
+                    "total":8,
+                    "name":"Statoil Indonesia West Papua IV AS",
+                    "taxes":8
+                }
+            ]
+        },
+        {
+            "name":"IRAN",
+            "country_code":"IRN",
+            "children":[
+                {
+                    "total":299,
+                    "name":"Statoil Iran AS",
+                    "taxes":299
+                }
+            ]
+        },
+        {
+            "name":"LIBYA",
+            "country_code":"LBY",
+            "children":[
+                {
+                    "total":230,
+                    "name":"Statoil Murzuq AS",
+                    "taxes":230
+                },
+                {
+                    "total":95,
+                    "name":"Saga Petroleum Mabruk AS",
+                    "taxes":95
+                },
+                {
+                    "gov_entitlements_mmboe":0,
+                    "total":45,
+                    "name":"Mabruk",
+                    "gov_entitlements_value":45
+                },
+                {
+                    "gov_entitlements_mmboe":0,
+                    "total":269,
+                    "name":"Murzuq",
+                    "gov_entitlements_value":269
+                }
+            ]
+        },
+        {
+            "name":"MOZAMBIQUE",
+            "country_code":"MOZ",
+            "children":[
+                {
+                    "total":5,
+                    "name":"Statoil O&G Mozambique AS",
+                    "taxes":5
+                }
+            ]
+        },
+        {
+            "name":"NIGERIA",
+            "country_code":"NGA",
+            "children":[
+                {
+                    "total":321,
+                    "name":"Statoil Nigeria AS",
+                    "taxes":321
+                },
+                {
+                    "total":2948,
+                    "name":"Statoil Nigeria Ltd",
+                    "taxes":2948
+                },
+                {
+                    "gov_entitlements_mmboe":3,
+                    "total":2233,
+                    "gov_entitlements_value":1873,
+                    "name":"Agbami",
+                    "fees":360
+                }
+            ]
+        },
+        {
+            "name":"NORWAY",
+            "country_code":"NOR",
+            "children":[
+                {
+                    "total":88635,
+                    "name":"Statoil Petroleum AS",
+                    "taxes":88635
+                },
+                {
+                    "total":112,
+                    "name":"Licences Barents Sea East",
+                    "fees":112
+                },
+                {
+                    "total":246,
+                    "name":"Licences East",
+                    "fees":246
+                },
+                {
+                    "total":124,
+                    "name":"Licences Norwegian Sea",
+                    "fees":124
+                },
+                {
+                    "total":71,
+                    "name":"Licences South",
+                    "fees":71
+                },
+                {
+                    "total":-4,
+                    "name":"Licences Utsira High",
+                    "fees":-4
+                },
+                {
+                    "total":90,
+                    "name":"Licences West",
+                    "fees":90
+                },
+                {
+                    "total":5,
+                    "name":"Operations Mid Norway",
+                    "fees":5
+                },
+                {
+                    "total":5,
+                    "name":"Operations West",
+                    "fees":5
+                }
+            ]
+        },
+        {
+            "name":"RUSSIA",
+            "country_code":"RUS",
+            "children":[
+                {
+                    "total":16,
+                    "name":"Statoil Sverige Kharyaga AB",
+                    "taxes":16
+                },
+                {
+                    "gov_entitlements_mmboe":1,
+                    "total":729,
+                    "name":"Kharyaga",
+                    "gov_entitlements_value":729
+                }
+            ]
+        },
+        {
+            "name":"UK",
+            "country_code":"GBR",
+            "children":[
+                {
+                    "total":87,
+                    "name":"Statoil UK Ltd",
+                    "taxes":87
+                },
+                {
+                    "total":2,
+                    "name":"Bressay",
+                    "fees":2
+                },
+                {
+                    "total":2,
+                    "name":"Mariner",
+                    "fees":2
+                },
+                {
+                    "total":1,
+                    "name":"Mariner east",
+                    "fees":1
+                },
+                {
+                    "total":6,
+                    "name":"Exploration licences",
+                    "fees":6
+                }
+            ]
+        },
+        {
+            "name":"USA",
+            "country_code":"USA",
+            "children":[
+                {
+                    "royalties":191,
+                    "name":"Bakken",
+                    "taxes":35,
+                    "bonuses":2,
+                    "fees":1,
+                    "total":229
+                },
+                {
+                    "royalties":53,
+                    "total":53,
+                    "name":"Ceasar Tonga"
+                },
+                {
+                    "royalties":5,
+                    "total":147,
+                    "name":"Eagle Ford",
+                    "taxes":140,
+                    "fees":1
+                },
+                {
+                    "royalties":3,
+                    "name":"Marcellus",
+                    "taxes":70,
+                    "bonuses":7,
+                    "fees":1,
+                    "total":82
+                },
+                {
+                    "total":0,
+                    "name":"Q",
+                    "fees":0
+                },
+                {
+                    "royalties":1,
+                    "total":1,
+                    "name":"Rocky Mountain",
+                    "fees":0
+                },
+                {
+                    "royalties":332,
+                    "total":332,
+                    "name":"Tahiti"
+                },
+                {
+                    "bonuses":66,
+                    "total":114,
+                    "name":"Exploration licences offshore",
+                    "fees":48
+                }
+            ]
+        },
+        {
+            "name":"VENEZUELA",
+            "country_code":"VEN",
+            "children":[
+                {
+                    "total":0,
+                    "name":"Statoil International Venezuela AS",
+                    "taxes":0
+                },
+                {
+                    "total":10,
+                    "name":"Statoil Sincor AS",
+                    "taxes":10
+                },
+                {
+                    "total":19,
+                    "name":"Statoil Venezuela AS",
+                    "taxes":19
+                }
+            ]
+        }
+    ]
+}

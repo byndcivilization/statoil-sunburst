@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+  <head>
+    <meta charset="utf-8">
+    <title>EITI sunburst</title>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600">
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+  </head>
+
+  <body>
+    <h1>Country -> Project -> Company</h1>
+    <form>
+      <label><input type="radio" name="mode" value="payment"> Payment $USD</label>
+      <label><input type="radio" name="mode" value="count" checked> Count</label>
+    </form>
+    <div id="main">
+      <div id="sequence"></div>
+      <div id="chart">
+        <div id="explanation" style="visibility: hidden;">
+          <span><h2>DATA</h2></span></br>
+          <span id="node_name">Name</span><br/>
+          <span id="dollars">Dollars</span><br/>
+        </div>
+      </div>
+    </div>
+  </body>
+
+  <script src="scripts/d3.js"></script>
+  <script type="text/javascript" src="scripts/main.js"></script>

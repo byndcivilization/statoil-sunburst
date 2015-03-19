@@ -1,0 +1,410 @@
+{
+    "name":"Statoil Government Payments",
+    "children":[
+        {
+            "name":"ALGERIA",
+            "country_code":"DZA",
+            "children":[
+                {
+                    "total":0,
+                    "name":"Agence Alnaft",
+                    "fees":0
+                },
+                {
+                    "gov_entitlements_mmboe":9,
+                    "total":5092,
+                    "name":"Sonatrach",
+                    "taxes":1568,
+                    "gov_entitlements_value":3524
+                },
+                {
+                    "total":63,
+                    "name":"Stavanger kemnerkontor",
+                    "taxes":63
+                }
+            ]
+        },
+        {
+            "name":"ANGOLA",
+            "country_code":"AGO",
+            "children":[
+                {
+                    "total":4871,
+                    "name":"BNA - Banco Nacional de Angola",
+                    "taxes":4871
+                },
+                {
+                    "gov_entitlements_mmboe":29,
+                    "total":18081,
+                    "name":"Sonangol EP",
+                    "gov_entitlements_value":18081
+                },
+                {
+                    "total":248,
+                    "name":"Stavanger kemnerkontor",
+                    "taxes":248
+                }
+            ]
+        },
+        {
+            "name":"AUSTRALIA",
+            "country_code":"AUS",
+            "children":[
+                {
+                    "total":2,
+                    "name":"Central Land Council",
+                    "fees":2
+                },
+                {
+                    "total":0,
+                    "name":"Department of Mines & Energy",
+                    "fees":0
+                },
+                {
+                    "total":0,
+                    "name":"National Offshore Petroleum",
+                    "fees":0
+                }
+            ]
+        },
+        {
+            "name":"AZERBAIJAN",
+            "country_code":"AZE",
+            "children":[
+                {
+                    "total":1289,
+                    "name":"Ministry of Taxes Azerbaijan Government",
+                    "taxes":1289
+                },
+                {
+                    "gov_entitlements_mmboe":14,
+                    "total":8778,
+                    "name":"SOCAR (The State Oil Company of the Azerbaijan Republic)",
+                    "gov_entitlements_value":8778
+                }
+            ]
+        },
+        {
+            "name":"BRAZIL",
+            "country_code":"BRA",
+            "children":[
+                {
+                    "total":16,
+                    "name":"Ag\u00eancia Nacional do Petr\u00f3leo, G\u00e1s Natural e Biocombust\u00edveis",
+                    "fees":16
+                },
+                {
+                    "royalties":865,
+                    "total":1217,
+                    "name":"Ministerio da Fazenda",
+                    "taxes":50,
+                    "fees":302
+                }
+            ]
+        },
+        {
+            "name":"CANADA",
+            "country_code":"CAN",
+            "children":[
+                {
+                    "total":8,
+                    "name":"Alberta Energy Regulator",
+                    "fees":8
+                },
+                {
+                    "total":2,
+                    "name":"Canada-Newfoundland and Labrador Offshore Petroleum Board",
+                    "fees":2
+                },
+                {
+                    "royalties":130,
+                    "total":130,
+                    "name":"Department of Finance Canada"
+                },
+                {
+                    "total":3,
+                    "name":"Government of Alberta",
+                    "fees":3
+                },
+                {
+                    "royalties":251,
+                    "total":251,
+                    "name":"Newfoundland Exchequer"
+                },
+                {
+                    "royalties":387,
+                    "total":393,
+                    "name":"Receiver General for Canada",
+                    "taxes":2,
+                    "fees":4
+                },
+                {
+                    "total":0,
+                    "name":"Revenu Qu\u00e9bec",
+                    "taxes":0
+                }
+            ]
+        },
+        {
+            "name":"FAROE ISLANDS",
+            "country_code":"FRO",
+            "children":[
+                {
+                    "total":19,
+                    "name":"F\u00f8roya Gjaldstova",
+                    "fees":19
+                }
+            ]
+        },
+        {
+            "name":"GREENLAND",
+            "country_code":"GRL",
+            "children":[
+                {
+                    "total":0,
+                    "name":"Bureau of Minerals and Petroleum, Greenland",
+                    "fees":0
+                },
+                {
+                    "total":2,
+                    "name":"Stavanger kemnerkontor",
+                    "taxes":2
+                }
+            ]
+        },
+        {
+            "name":"INDONESIA",
+            "country_code":"IDN",
+            "children":[
+                {
+                    "total":2,
+                    "name":"Kas Negara",
+                    "taxes":0,
+                    "fees":2
+                },
+                {
+                    "total":30,
+                    "name":"Stavanger kemnerkontor",
+                    "taxes":30
+                }
+            ]
+        },
+        {
+            "name":"IRAN",
+            "country_code":"IRN",
+            "children":[
+                {
+                    "total":0,
+                    "name":"Sazmane Omoore Maliatie",
+                    "taxes":0
+                },
+                {
+                    "total":298,
+                    "name":"Stavanger kemnerkontor",
+                    "taxes":298
+                }
+            ]
+        },
+        {
+            "name":"LIBYA",
+            "country_code":"LBY",
+            "children":[
+                {
+                    "gov_entitlements_mmboe":0,
+                    "total":314,
+                    "name":"National Oil Corporation",
+                    "gov_entitlements_value":314
+                },
+                {
+                    "total":47,
+                    "name":"Stavanger kemnerkontor",
+                    "taxes":47
+                },
+                {
+                    "total":278,
+                    "name":"Tax Department Libya",
+                    "taxes":278
+                }
+            ]
+        },
+        {
+            "name":"MOZAMBIQUE",
+            "country_code":"MOZ",
+            "children":[
+                {
+                    "total":5,
+                    "name":"Stavanger kemnerkontor",
+                    "taxes":5
+                }
+            ]
+        },
+        {
+            "name":"NIGERIA",
+            "country_code":"NGA",
+            "children":[
+                {
+                    "total":360,
+                    "name":"Central Bank of Nigeria Education Tax",
+                    "fees":360
+                },
+                {
+                    "gov_entitlements_mmboe":3,
+                    "total":4821,
+                    "name":"Nigerian National Petroleum Corp.",
+                    "taxes":2948,
+                    "gov_entitlements_value":1873
+                },
+                {
+                    "total":321,
+                    "name":"Stavanger kemnerkontor",
+                    "taxes":321
+                }
+            ]
+        },
+        {
+            "name":"NORWAY",
+            "country_code":"NOR",
+            "children":[
+                {
+                    "total":649,
+                    "name":"Oljedirektoratet",
+                    "fees":649
+                },
+                {
+                    "total":88635,
+                    "name":"Oljeskattekontoret",
+                    "taxes":88635
+                }
+            ]
+        },
+        {
+            "name":"RUSSIA",
+            "country_code":"RUS",
+            "children":[
+                {
+                    "total":16,
+                    "name":"Skatteverket Stockholm",
+                    "taxes":16
+                },
+                {
+                    "gov_entitlements_mmboe":1,
+                    "total":729,
+                    "name":"Treasury of the Russian Federation",
+                    "gov_entitlements_value":729
+                }
+            ]
+        },
+        {
+            "name":"UK",
+            "country_code":"GBR",
+            "children":[
+                {
+                    "total":11,
+                    "name":"Department of Energy and Climate Change",
+                    "fees":11
+                },
+                {
+                    "total":87,
+                    "name":"HM Revenue & Customs",
+                    "taxes":87
+                }
+            ]
+        },
+        {
+            "name":"USA",
+            "country_code":"USA",
+            "children":[
+                {
+                    "royalties":1,
+                    "total":1,
+                    "name":"City of Kenedy, Texas"
+                },
+                {
+                    "royalties":1,
+                    "total":1,
+                    "name":"Commonwealth of Pennsylvania"
+                },
+                {
+                    "total":34,
+                    "name":"Montana Department of Revenue",
+                    "taxes":34
+                },
+                {
+                    "royalties":437,
+                    "bonuses":68,
+                    "total":554,
+                    "name":"Office of Natural Resources Revenue",
+                    "fees":48
+                },
+                {
+                    "royalties":2,
+                    "total":2,
+                    "name":"Park Board of the City of Williston"
+                },
+                {
+                    "total":3,
+                    "name":"Pennsylvania Department of Revenue",
+                    "taxes":3
+                },
+                {
+                    "total":1,
+                    "name":"Railroad Commission of Texas",
+                    "fees":1
+                },
+                {
+                    "royalties":1,
+                    "total":1,
+                    "name":"Roosevelt Country Montana"
+                },
+                {
+                    "royalties":5,
+                    "total":5,
+                    "name":"State of Montana"
+                },
+                {
+                    "royalties":130,
+                    "total":130,
+                    "name":"State of North Dakota"
+                },
+                {
+                    "royalties":4,
+                    "total":4,
+                    "name":"State of Texas"
+                },
+                {
+                    "total":67,
+                    "name":"State of West Virginia",
+                    "taxes":67
+                },
+                {
+                    "total":140,
+                    "name":"Texas Comptroller of Public Accounts",
+                    "taxes":140
+                },
+                {
+                    "bonuses":7,
+                    "total":7,
+                    "name":"West Virginia Department of Commerce"
+                },
+                {
+                    "royalties":4,
+                    "total":6,
+                    "name":"Other",
+                    "taxes":0,
+                    "fees":2
+                }
+            ]
+        },
+        {
+            "name":"VENEZUELA",
+            "country_code":"VEN",
+            "children":[
+                {
+                    "total":29,
+                    "name":"Stavanger kemnerkontor",
+                    "taxes":29
+                }
+            ]
+        }
+    ]
+}
