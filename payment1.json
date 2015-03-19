@@ -1,0 +1,2160 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "Block_2(c)", 
+                            "payment": 1, 
+                            "recieved": 1
+                        }
+                    ], 
+                    "name": "Chaoyang"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Block_Modified_U(a)", 
+                            "payment": 1, 
+                            "recieved": 1
+                        }, 
+                        {
+                            "name": "Block_Modified_U(b)", 
+                            "payment": 1, 
+                            "recieved": 1
+                        }, 
+                        {
+                            "name": "Block_4(a)", 
+                            "payment": 670296, 
+                            "recieved": 672213
+                        }, 
+                        {
+                            "name": "Block_Modified_U(b)", 
+                            "payment": 5907316, 
+                            "recieved": 5912633
+                        }, 
+                        {
+                            "name": "Block_Modified_U(a)", 
+                            "payment": 77052487, 
+                            "recieved": 77115702
+                        }
+                    ], 
+                    "name": "EOG"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "North_Coast_Marine_Area_1_(NCMA_1)", 
+                            "payment": 1, 
+                            "recieved": 1
+                        }
+                    ], 
+                    "name": "NGSP"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Block_3(b)", 
+                            "payment": 1, 
+                            "recieved": 1
+                        }, 
+                        {
+                            "name": "East_Brighton_Area_Offshore", 
+                            "payment": 1, 
+                            "recieved": 1
+                        }
+                    ], 
+                    "name": "PremierOil"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Block_2(c)", 
+                            "payment": 1, 
+                            "recieved": 1
+                        }, 
+                        {
+                            "name": "Block_3(a)", 
+                            "payment": 1, 
+                            "recieved": 1
+                        }
+                    ], 
+                    "name": "Total"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Block_1(a)", 
+                            "payment": 637130, 
+                            "recieved": 637010
+                        }, 
+                        {
+                            "name": "Block_22", 
+                            "payment": 1457637, 
+                            "recieved": 1456470
+                        }, 
+                        {
+                            "name": "North_Coast_Marine_Area_4_(NCMA_4)", 
+                            "payment": 6503803, 
+                            "recieved": 6480586
+                        }
+                    ], 
+                    "name": "Centrica"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Block_3(a)", 
+                            "payment": 691964, 
+                            "recieved": 691964
+                        }, 
+                        {
+                            "name": "Block_2(c)", 
+                            "payment": 123039171, 
+                            "recieved": 123039171
+                        }
+                    ], 
+                    "name": "BHP"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "North_Coast_Marine_Area_3_(NCMA_3)", 
+                            "payment": 3709642, 
+                            "recieved": 3642858
+                        }, 
+                        {
+                            "name": "Block_4(b)", 
+                            "payment": 7664353, 
+                            "recieved": 7638122
+                        }, 
+                        {
+                            "name": "North_Coast_Marine_Area_2_(NCMA_2)", 
+                            "payment": 13983085, 
+                            "recieved": 13933742
+                        }
+                    ], 
+                    "name": "Niko"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Galeota_Area", 
+                            "payment": 7124246, 
+                            "recieved": 7119818
+                        }
+                    ], 
+                    "name": "BayfieldEnergy"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "North_Coast_Marine_Area_1_(NCMA_1)", 
+                            "payment": 12568771, 
+                            "recieved": 12568771
+                        }
+                    ], 
+                    "name": "ENI"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Central_Block", 
+                            "payment": 41217374, 
+                            "recieved": 41207099
+                        }, 
+                        {
+                            "name": "Block_5(c)_Offshore", 
+                            "payment": 68779190, 
+                            "recieved": 68705613
+                        }
+                    ], 
+                    "name": "BGGroup"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Columbus_Basin_Shallow_(Teak_Samaan_Poui)", 
+                            "payment": 197366670, 
+                            "recieved": 197366670
+                        }
+                    ], 
+                    "name": "Repsol"
+                }
+            ], 
+            "name": "Trinidad"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "JPDA_06-105", 
+                            "payment": 1, 
+                            "recieved": 1
+                        }, 
+                        {
+                            "name": "JPDA_06-105", 
+                            "payment": 6419484, 
+                            "recieved": 6419484
+                        }
+                    ], 
+                    "name": "TalismanEnergy"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "JPDA_06-102", 
+                            "payment": 107, 
+                            "recieved": 107
+                        }, 
+                        {
+                            "name": "JPDA_06-102", 
+                            "payment": 11564779, 
+                            "recieved": 11564779
+                        }
+                    ], 
+                    "name": "Petronas"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "JPDA_06-103", 
+                            "payment": 11374, 
+                            "recieved": 11374
+                        }, 
+                        {
+                            "name": "JPDA_06-103", 
+                            "payment": 29751, 
+                            "recieved": 29751
+                        }
+                    ], 
+                    "name": "JapanEnergy"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "JPDA_06-101_A", 
+                            "payment": 90330, 
+                            "recieved": 90330
+                        }, 
+                        {
+                            "name": "JPDA_06-101_A", 
+                            "payment": 91746, 
+                            "recieved": 91746
+                        }
+                    ], 
+                    "name": "Minza"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "S-06-06_(Block_K)", 
+                            "payment": 104880, 
+                            "recieved": 104880
+                        }, 
+                        {
+                            "name": "S-06-06_(Block_K)", 
+                            "payment": 3563379, 
+                            "recieved": 3563379
+                        }
+                    ], 
+                    "name": "Reliance"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "JPDA_06-103", 
+                            "payment": 417407, 
+                            "recieved": 417407
+                        }, 
+                        {
+                            "name": "JPDA_06-103", 
+                            "payment": 4476530, 
+                            "recieved": 4476530
+                        }
+                    ], 
+                    "name": "Oilex"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "JPDA_06-105", 
+                            "payment": 6989354, 
+                            "recieved": 6989354
+                        }, 
+                        {
+                            "name": "JPDA_06-105", 
+                            "payment": 49587120, 
+                            "recieved": 49587120
+                        }
+                    ], 
+                    "name": "ENI"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "JPDA_03-13", 
+                            "payment": 106728004, 
+                            "recieved": 106728004
+                        }, 
+                        {
+                            "name": "JPDA_03-13", 
+                            "payment": 164037863, 
+                            "recieved": 164037863
+                        }, 
+                        {
+                            "name": "JPDA_03-12", 
+                            "payment": 720537387, 
+                            "recieved": 720537387
+                        }, 
+                        {
+                            "name": "JPDA_03-12", 
+                            "payment": 1086543694, 
+                            "recieved": 1086543694
+                        }
+                    ], 
+                    "name": "ConocoPhilips"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "JPDA_03-12", 
+                            "payment": 167637643, 
+                            "recieved": 167637643
+                        }, 
+                        {
+                            "name": "JPDA_03-12", 
+                            "payment": 290213987, 
+                            "recieved": 290213987
+                        }
+                    ], 
+                    "name": "TokyoTimor"
+                }
+            ], 
+            "name": "Timor"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "South_Jambi_B", 
+                            "payment": 16000, 
+                            "recieved": 16000
+                        }, 
+                        {
+                            "name": "MFK", 
+                            "payment": 26000, 
+                            "recieved": 26000
+                        }, 
+                        {
+                            "name": "Lematang", 
+                            "payment": 45000, 
+                            "recieved": 45000
+                        }, 
+                        {
+                            "name": "MFK", 
+                            "payment": 240000, 
+                            "recieved": 240000
+                        }, 
+                        {
+                            "name": "South_Jambi_B", 
+                            "payment": 293000, 
+                            "recieved": 293000
+                        }, 
+                        {
+                            "name": "Tonga", 
+                            "payment": 563000, 
+                            "recieved": 563000
+                        }, 
+                        {
+                            "name": "West_Kampar_Block", 
+                            "payment": 566000, 
+                            "recieved": 566000
+                        }, 
+                        {
+                            "name": "Merangin_II", 
+                            "payment": 660000, 
+                            "recieved": 660000
+                        }, 
+                        {
+                            "name": "Salawati_Basin", 
+                            "payment": 678000, 
+                            "recieved": 678000
+                        }, 
+                        {
+                            "name": "Offshore_Northwest_Java", 
+                            "payment": 797000, 
+                            "recieved": 797000
+                        }, 
+                        {
+                            "name": "Salawati_Basin", 
+                            "payment": 1327000, 
+                            "recieved": 1327000
+                        }, 
+                        {
+                            "name": "Lematang", 
+                            "payment": 1552000, 
+                            "recieved": 1552000
+                        }, 
+                        {
+                            "name": "Senoro_Toili_Sulawesi", 
+                            "payment": 2243000, 
+                            "recieved": 2243000
+                        }, 
+                        {
+                            "name": "Block_A", 
+                            "payment": 2500000, 
+                            "recieved": 2500000
+                        }, 
+                        {
+                            "name": "Makassar_Strait", 
+                            "payment": 4279000, 
+                            "recieved": 4279000
+                        }, 
+                        {
+                            "name": "Merangin_II", 
+                            "payment": 4475000, 
+                            "recieved": 4475000
+                        }, 
+                        {
+                            "name": "Lematang", 
+                            "payment": 4492000, 
+                            "recieved": 4492000
+                        }, 
+                        {
+                            "name": "Kakap", 
+                            "payment": 4828000, 
+                            "recieved": 4828000
+                        }, 
+                        {
+                            "name": "Pendopo-Raja_JOB", 
+                            "payment": 5004000, 
+                            "recieved": 5004000
+                        }, 
+                        {
+                            "name": "Senoro_Toili_Sulawesi", 
+                            "payment": 6175000, 
+                            "recieved": 6175000
+                        }, 
+                        {
+                            "name": "Raja", 
+                            "payment": 6317000, 
+                            "recieved": 6341000
+                        }, 
+                        {
+                            "name": "Pendopo-Raja_JOB", 
+                            "payment": 6363000, 
+                            "recieved": 6363000
+                        }, 
+                        {
+                            "name": "Tuban", 
+                            "payment": 6821000, 
+                            "recieved": 6821000
+                        }, 
+                        {
+                            "name": "Kakap", 
+                            "payment": 7426000, 
+                            "recieved": 7426000
+                        }, 
+                        {
+                            "name": "Offshore_Northwest_Java", 
+                            "payment": 8033000, 
+                            "recieved": 8033000
+                        }, 
+                        {
+                            "name": "Senoro_Toili_Sulawesi", 
+                            "payment": 9391000, 
+                            "recieved": 9391000
+                        }, 
+                        {
+                            "name": "Tuban", 
+                            "payment": 9648000, 
+                            "recieved": 9648000
+                        }, 
+                        {
+                            "name": "Senoro_Toili_Sulawesi", 
+                            "payment": 9794000, 
+                            "recieved": 9794000
+                        }, 
+                        {
+                            "name": "Salawati_Island_JOB", 
+                            "payment": 10091000, 
+                            "recieved": 10091000
+                        }, 
+                        {
+                            "name": "Senoro_Toili_Sulawesi", 
+                            "payment": 10463000, 
+                            "recieved": 10463000
+                        }, 
+                        {
+                            "name": "Makassar_Strait", 
+                            "payment": 12367000, 
+                            "recieved": 12367000
+                        }, 
+                        {
+                            "name": "Tengah_Block_Off._East_Kal.", 
+                            "payment": 14874000, 
+                            "recieved": 9453000
+                        }, 
+                        {
+                            "name": "Coastal_Plains_Pekanbaru", 
+                            "payment": 14883000, 
+                            "recieved": 14883000
+                        }, 
+                        {
+                            "name": "South_East_Sumatera", 
+                            "payment": 15163000, 
+                            "recieved": 15163000
+                        }, 
+                        {
+                            "name": "Salawati_Island_JOB", 
+                            "payment": 15189000, 
+                            "recieved": 15216000
+                        }, 
+                        {
+                            "name": "Coastal_Plains_Pekanbaru", 
+                            "payment": 17243000, 
+                            "recieved": 17243000
+                        }, 
+                        {
+                            "name": "Tengah_Block_Off._East_Kal.", 
+                            "payment": 18594000, 
+                            "recieved": 18594000
+                        }, 
+                        {
+                            "name": "Senoro_Toili_Sulawesi", 
+                            "payment": 21411000, 
+                            "recieved": 21411000
+                        }, 
+                        {
+                            "name": "Kepala_Burung", 
+                            "payment": 21894000, 
+                            "recieved": 20608000
+                        }, 
+                        {
+                            "name": "Ogan_Komering", 
+                            "payment": 33172000, 
+                            "recieved": 33172000
+                        }, 
+                        {
+                            "name": "Ogan_Komering", 
+                            "payment": 33173000, 
+                            "recieved": 33173000
+                        }, 
+                        {
+                            "name": "Tarakan", 
+                            "payment": 33749000, 
+                            "recieved": 33749000
+                        }, 
+                        {
+                            "name": "Jambi_Merang_Block_Ons._Jambi", 
+                            "payment": 37303000, 
+                            "recieved": 37303000
+                        }, 
+                        {
+                            "name": "Tarakan", 
+                            "payment": 39340000, 
+                            "recieved": 39340000
+                        }, 
+                        {
+                            "name": "Ogan_Komering", 
+                            "payment": 46023000, 
+                            "recieved": 46023000
+                        }, 
+                        {
+                            "name": "Jabung", 
+                            "payment": 47534000, 
+                            "recieved": 47534000
+                        }, 
+                        {
+                            "name": "Jabung", 
+                            "payment": 52422000, 
+                            "recieved": 52422000
+                        }, 
+                        {
+                            "name": "Tuban", 
+                            "payment": 70719000, 
+                            "recieved": 68409000
+                        }, 
+                        {
+                            "name": "Tarakan", 
+                            "payment": 76111000, 
+                            "recieved": 76111000
+                        }, 
+                        {
+                            "name": "Tuban", 
+                            "payment": 97391000, 
+                            "recieved": 97397000
+                        }, 
+                        {
+                            "name": "Tuban", 
+                            "payment": 121672000, 
+                            "recieved": 121672000
+                        }, 
+                        {
+                            "name": "West_Madura_Off._East_Java", 
+                            "payment": 134554000, 
+                            "recieved": 134554000
+                        }, 
+                        {
+                            "name": "West_Madura", 
+                            "payment": 134950000, 
+                            "recieved": 134410000
+                        }, 
+                        {
+                            "name": "West_Madura_Off._East_Java", 
+                            "payment": 234191000, 
+                            "recieved": 234191000
+                        }, 
+                        {
+                            "name": "Barisan_Rimau", 
+                            "payment": 235463000, 
+                            "recieved": 326226000
+                        }, 
+                        {
+                            "name": "Rimau", 
+                            "payment": 248788000, 
+                            "recieved": 248788000
+                        }, 
+                        {
+                            "name": "South_&_Central_Sumatra", 
+                            "payment": 257667000, 
+                            "recieved": 166905000
+                        }, 
+                        {
+                            "name": "South_&_Central_Sumatra", 
+                            "payment": 308664000, 
+                            "recieved": 308664000
+                        }, 
+                        {
+                            "name": "Coastal_Plains_Pekanbaru", 
+                            "payment": 319903000, 
+                            "recieved": 318379000
+                        }, 
+                        {
+                            "name": "Rimau", 
+                            "payment": 384957000, 
+                            "recieved": 384957000
+                        }, 
+                        {
+                            "name": "South_&_Central_Sumatra", 
+                            "payment": 419430000, 
+                            "recieved": 419430000
+                        }, 
+                        {
+                            "name": "Indonesia_(Nation-wide)", 
+                            "payment": 1367305000, 
+                            "recieved": 1387958000
+                        }, 
+                        {
+                            "name": "Indonesia_(Nation-wide)", 
+                            "payment": 1637507000, 
+                            "recieved": 1635485000
+                        }, 
+                        {
+                            "name": "Indonesia_(Nation-wide)", 
+                            "payment": 2651927000, 
+                            "recieved": 2650065000
+                        }, 
+                        {
+                            "name": "Rokan", 
+                            "payment": 5477072000, 
+                            "recieved": 5477067000
+                        }, 
+                        {
+                            "name": "Rokan", 
+                            "payment": 7127862000, 
+                            "recieved": 7127862000
+                        }, 
+                        {
+                            "name": "Rokan", 
+                            "payment": 10111111000, 
+                            "recieved": 10123339000
+                        }
+                    ], 
+                    "name": "PT"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Langgak", 
+                            "payment": 39000, 
+                            "recieved": 39000
+                        }, 
+                        {
+                            "name": "Langgak", 
+                            "payment": 1062000, 
+                            "recieved": 1062000
+                        }
+                    ], 
+                    "name": "Kingswood"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Gebang", 
+                            "payment": 60000, 
+                            "recieved": 60000
+                        }, 
+                        {
+                            "name": "Gebang", 
+                            "payment": 193000, 
+                            "recieved": 193000
+                        }, 
+                        {
+                            "name": "Pendopo-Raja_JOB", 
+                            "payment": 6122000, 
+                            "recieved": 5228000
+                        }, 
+                        {
+                            "name": "Pendopo-Raja_JOB", 
+                            "payment": 10674000, 
+                            "recieved": 10674000
+                        }, 
+                        {
+                            "name": "Salawati_Island_JOB", 
+                            "payment": 17451000, 
+                            "recieved": 17451000
+                        }, 
+                        {
+                            "name": "Salawati_Island_JOB", 
+                            "payment": 17759000, 
+                            "recieved": 17759000
+                        }, 
+                        {
+                            "name": "Ogan_Komering", 
+                            "payment": 45842000, 
+                            "recieved": 45842000
+                        }, 
+                        {
+                            "name": "Jambi_Merang_Block_Ons._Jambi", 
+                            "payment": 54503000, 
+                            "recieved": 54503000
+                        }, 
+                        {
+                            "name": "Ogan_Komering", 
+                            "payment": 65574000, 
+                            "recieved": 65574000
+                        }, 
+                        {
+                            "name": "Tuban", 
+                            "payment": 107591000, 
+                            "recieved": 107591000
+                        }, 
+                        {
+                            "name": "Tuban", 
+                            "payment": 167283000, 
+                            "recieved": 164155000
+                        }, 
+                        {
+                            "name": "Coastal_Plains_Pekanbaru", 
+                            "payment": 328259000, 
+                            "recieved": 328259000
+                        }, 
+                        {
+                            "name": "Coastal_Plains_Pekanbaru", 
+                            "payment": 464693000, 
+                            "recieved": 464693000
+                        }
+                    ], 
+                    "name": "JOB"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Gebang", 
+                            "payment": 103000, 
+                            "recieved": 103000
+                        }
+                    ], 
+                    "name": "CostaInternational"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Cepu", 
+                            "payment": 199000, 
+                            "recieved": 199000
+                        }
+                    ], 
+                    "name": "Ampolex"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Bangko", 
+                            "payment": 226000, 
+                            "recieved": 226000
+                        }, 
+                        {
+                            "name": "Bangko", 
+                            "payment": 329000, 
+                            "recieved": 329000
+                        }, 
+                        {
+                            "name": "Bangko", 
+                            "payment": 685000, 
+                            "recieved": 685000
+                        }, 
+                        {
+                            "name": "Kepala_Burung", 
+                            "payment": 22479000, 
+                            "recieved": 23992000
+                        }, 
+                        {
+                            "name": "Tuban", 
+                            "payment": 74147000, 
+                            "recieved": 80947000
+                        }, 
+                        {
+                            "name": "Salawati_Basin", 
+                            "payment": 75043000, 
+                            "recieved": 75043000
+                        }, 
+                        {
+                            "name": "Salawati_Basin", 
+                            "payment": 98317000, 
+                            "recieved": 98317000
+                        }, 
+                        {
+                            "name": "Salawati_Basin", 
+                            "payment": 144682000, 
+                            "recieved": 144682000
+                        }, 
+                        {
+                            "name": "Jabung", 
+                            "payment": 583988000, 
+                            "recieved": 634789000
+                        }, 
+                        {
+                            "name": "Jabung", 
+                            "payment": 664387000, 
+                            "recieved": 664387000
+                        }, 
+                        {
+                            "name": "Jabung", 
+                            "payment": 922327000, 
+                            "recieved": 922327000
+                        }
+                    ], 
+                    "name": "PetroChina"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Malacca_Strait", 
+                            "payment": 233000, 
+                            "recieved": 312000
+                        }
+                    ], 
+                    "name": "Malacca"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "South_Jambi_B", 
+                            "payment": 237000, 
+                            "recieved": 237000
+                        }, 
+                        {
+                            "name": "South_Jambi_B", 
+                            "payment": 1723000, 
+                            "recieved": 1425000
+                        }, 
+                        {
+                            "name": "South_Jambi_B", 
+                            "payment": 6047000, 
+                            "recieved": 6958000
+                        }, 
+                        {
+                            "name": "South_Natuna_Sea_B", 
+                            "payment": 1233561000, 
+                            "recieved": 1233560000
+                        }, 
+                        {
+                            "name": "Corridor", 
+                            "payment": 1272238000, 
+                            "recieved": 1272176000
+                        }, 
+                        {
+                            "name": "Corridor", 
+                            "payment": 1406750000, 
+                            "recieved": 1409579000
+                        }, 
+                        {
+                            "name": "South_Natuna_Sea_B", 
+                            "payment": 1468298000, 
+                            "recieved": 1487339000
+                        }, 
+                        {
+                            "name": "South_Natuna_Sea_B", 
+                            "payment": 1757193000, 
+                            "recieved": 1788847000
+                        }, 
+                        {
+                            "name": "Corridor", 
+                            "payment": 1889485000, 
+                            "recieved": 1892648000
+                        }
+                    ], 
+                    "name": "ConocoPhilips"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Korinci", 
+                            "payment": 246000, 
+                            "recieved": 246000
+                        }, 
+                        {
+                            "name": "Bentu", 
+                            "payment": 1749000, 
+                            "recieved": 1751000
+                        }, 
+                        {
+                            "name": "Malacca_Strait", 
+                            "payment": 108295000, 
+                            "recieved": 108295000
+                        }, 
+                        {
+                            "name": "Malacca_Strait", 
+                            "payment": 155534000, 
+                            "recieved": 158154000
+                        }
+                    ], 
+                    "name": "EMP"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Salawati_Island_JOB", 
+                            "payment": 386000, 
+                            "recieved": 386000
+                        }, 
+                        {
+                            "name": "Salawati_Island_JOB", 
+                            "payment": 947000, 
+                            "recieved": 947000
+                        }, 
+                        {
+                            "name": "Salawati_Basin", 
+                            "payment": 1909000, 
+                            "recieved": 1909000
+                        }, 
+                        {
+                            "name": "Salawati_Basin", 
+                            "payment": 4186000, 
+                            "recieved": 4186000
+                        }
+                    ], 
+                    "name": "Lundin"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Wiriagar", 
+                            "payment": 387000, 
+                            "recieved": 386000
+                        }, 
+                        {
+                            "name": "Muturi", 
+                            "payment": 971000, 
+                            "recieved": 971000
+                        }, 
+                        {
+                            "name": "Berau", 
+                            "payment": 3226000, 
+                            "recieved": 3227000
+                        }, 
+                        {
+                            "name": "Wiriagar", 
+                            "payment": 4590000, 
+                            "recieved": 4590000
+                        }, 
+                        {
+                            "name": "Muturi", 
+                            "payment": 7737000, 
+                            "recieved": 7737000
+                        }, 
+                        {
+                            "name": "Wiriagar", 
+                            "payment": 9342000, 
+                            "recieved": 9249000
+                        }, 
+                        {
+                            "name": "Muturi", 
+                            "payment": 17234000, 
+                            "recieved": 17231000
+                        }, 
+                        {
+                            "name": "Berau", 
+                            "payment": 45764000, 
+                            "recieved": 45764000
+                        }, 
+                        {
+                            "name": "Sanga-Sanga", 
+                            "payment": 49877000, 
+                            "recieved": 49876000
+                        }, 
+                        {
+                            "name": "Sanga-Sanga", 
+                            "payment": 70810000, 
+                            "recieved": 71458000
+                        }, 
+                        {
+                            "name": "Berau", 
+                            "payment": 85283000, 
+                            "recieved": 84528000
+                        }
+                    ], 
+                    "name": "BP"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Wailawi", 
+                            "payment": 442000, 
+                            "recieved": 442000
+                        }, 
+                        {
+                            "name": "Rimau", 
+                            "payment": 1383000, 
+                            "recieved": 1383000
+                        }, 
+                        {
+                            "name": "Rimau", 
+                            "payment": 2754000, 
+                            "recieved": 2754000
+                        }
+                    ], 
+                    "name": "Persuda"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Salawati_Island_JOB", 
+                            "payment": 497000, 
+                            "recieved": 497000
+                        }, 
+                        {
+                            "name": "Salawati_Island_JOB", 
+                            "payment": 1221000, 
+                            "recieved": 1221000
+                        }, 
+                        {
+                            "name": "Tungkal", 
+                            "payment": 1837000, 
+                            "recieved": 1837000
+                        }, 
+                        {
+                            "name": "Salawati_Basin", 
+                            "payment": 2509000, 
+                            "recieved": 2509000
+                        }, 
+                        {
+                            "name": "Salawati_Basin", 
+                            "payment": 5553000, 
+                            "recieved": 5553000
+                        }
+                    ], 
+                    "name": "PearlOil"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Senoro_Toili_Sulawesi", 
+                            "payment": 503000, 
+                            "recieved": 503000
+                        }
+                    ], 
+                    "name": "BUT"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Wailawi", 
+                            "payment": 597000, 
+                            "recieved": 597000
+                        }, 
+                        {
+                            "name": "Wailawi", 
+                            "payment": 644000, 
+                            "recieved": 644000
+                        }
+                    ], 
+                    "name": "BUMD"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Korinci", 
+                            "payment": 686000, 
+                            "recieved": 686000
+                        }, 
+                        {
+                            "name": "Korinci", 
+                            "payment": 1217000, 
+                            "recieved": 1217000
+                        }
+                    ], 
+                    "name": "Kalia"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "South_East_Sumatera", 
+                            "payment": 924000, 
+                            "recieved": 924000
+                        }, 
+                        {
+                            "name": "South_East_Sumatera", 
+                            "payment": 1120000, 
+                            "recieved": 1120000
+                        }, 
+                        {
+                            "name": "Wiriagar", 
+                            "payment": 1715000, 
+                            "recieved": 1640000
+                        }, 
+                        {
+                            "name": "Wiriagar", 
+                            "payment": 3205000, 
+                            "recieved": 3279000
+                        }, 
+                        {
+                            "name": "Offshore_Northwest_Java", 
+                            "payment": 4010000, 
+                            "recieved": 4010000
+                        }, 
+                        {
+                            "name": "Offshore_Northwest_Java", 
+                            "payment": 5369000, 
+                            "recieved": 5369000
+                        }, 
+                        {
+                            "name": "Jambi_Merang_Block_Ons._Jambi", 
+                            "payment": 8793000, 
+                            "recieved": 8793000
+                        }, 
+                        {
+                            "name": "Ogan_Komering", 
+                            "payment": 35695000, 
+                            "recieved": 35461000
+                        }, 
+                        {
+                            "name": "Corridor", 
+                            "payment": 221486000, 
+                            "recieved": 221486000
+                        }, 
+                        {
+                            "name": "Corridor", 
+                            "payment": 324945000, 
+                            "recieved": 324945000
+                        }
+                    ], 
+                    "name": "TalismanEnergy"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Wiriagar", 
+                            "payment": 956000, 
+                            "recieved": 956000
+                        }, 
+                        {
+                            "name": "Wiriagar", 
+                            "payment": 1746000, 
+                            "recieved": 1746000
+                        }, 
+                        {
+                            "name": "Berau", 
+                            "payment": 5927000, 
+                            "recieved": 5927000
+                        }, 
+                        {
+                            "name": "Berau", 
+                            "payment": 8084000, 
+                            "recieved": 8084000
+                        }
+                    ], 
+                    "name": "KGBerau"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Bula_Seram", 
+                            "payment": 1055000, 
+                            "recieved": 1056000
+                        }, 
+                        {
+                            "name": "Bula", 
+                            "payment": 1415000, 
+                            "recieved": 1415000
+                        }, 
+                        {
+                            "name": "Bula", 
+                            "payment": 2044000, 
+                            "recieved": 2044000
+                        }
+                    ], 
+                    "name": "Kalrez"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Brantas", 
+                            "payment": 1098000, 
+                            "recieved": 1098000
+                        }, 
+                        {
+                            "name": "Brantas", 
+                            "payment": 1282000, 
+                            "recieved": 1282000
+                        }, 
+                        {
+                            "name": "Brantas", 
+                            "payment": 1695000, 
+                            "recieved": 1694000
+                        }
+                    ], 
+                    "name": "Lapindo"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Selat_Panjang", 
+                            "payment": 1123000, 
+                            "recieved": 1123000
+                        }, 
+                        {
+                            "name": "Selat_Panjang", 
+                            "payment": 1212000, 
+                            "recieved": 1212000
+                        }, 
+                        {
+                            "name": "Selat_Panjang", 
+                            "payment": 1505000, 
+                            "recieved": 1505000
+                        }
+                    ], 
+                    "name": "Petroselat"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Pase", 
+                            "payment": 1146000, 
+                            "recieved": 906000
+                        }, 
+                        {
+                            "name": "Cepu", 
+                            "payment": 22792000, 
+                            "recieved": 22792000
+                        }, 
+                        {
+                            "name": "Cepu", 
+                            "payment": 72533000, 
+                            "recieved": 72533000
+                        }, 
+                        {
+                            "name": "Cepu", 
+                            "payment": 142754000, 
+                            "recieved": 142754000
+                        }, 
+                        {
+                            "name": "B_Block", 
+                            "payment": 330721000, 
+                            "recieved": 330720000
+                        }, 
+                        {
+                            "name": "North_Sumatra_Offshore", 
+                            "payment": 355402000, 
+                            "recieved": 355402000
+                        }, 
+                        {
+                            "name": "B_Block", 
+                            "payment": 403141000, 
+                            "recieved": 403217000
+                        }, 
+                        {
+                            "name": "B_Block", 
+                            "payment": 415887000, 
+                            "recieved": 415887000
+                        }, 
+                        {
+                            "name": "North_Sumatra_Offshore", 
+                            "payment": 487410000, 
+                            "recieved": 487410000
+                        }, 
+                        {
+                            "name": "North_Sumatra_Offshore", 
+                            "payment": 561627000, 
+                            "recieved": 561627000
+                        }
+                    ], 
+                    "name": "ExxonMobil"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Muturi", 
+                            "payment": 1250000, 
+                            "recieved": 1250000
+                        }, 
+                        {
+                            "name": "West_Madura_Off._East_Java", 
+                            "payment": 11600000, 
+                            "recieved": 13843000
+                        }, 
+                        {
+                            "name": "Muturi", 
+                            "payment": 20304000, 
+                            "recieved": 20304000
+                        }, 
+                        {
+                            "name": "Offshore_Northwest_Java", 
+                            "payment": 23362000, 
+                            "recieved": 23362000
+                        }, 
+                        {
+                            "name": "West_Madura_Off._East_Java", 
+                            "payment": 28684000, 
+                            "recieved": 28684000
+                        }, 
+                        {
+                            "name": "Offshore_Northwest_Java", 
+                            "payment": 55222000, 
+                            "recieved": 55222000
+                        }, 
+                        {
+                            "name": "South_East_Sumatera", 
+                            "payment": 561290000, 
+                            "recieved": 577228000
+                        }, 
+                        {
+                            "name": "South_East_Sumatera", 
+                            "payment": 766912000, 
+                            "recieved": 767094000
+                        }, 
+                        {
+                            "name": "South_East_Sumatera", 
+                            "payment": 865706000, 
+                            "recieved": 865706000
+                        }
+                    ], 
+                    "name": "CNOOC"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Seram_Non_Bula", 
+                            "payment": 1341000, 
+                            "recieved": 1341000
+                        }, 
+                        {
+                            "name": "Seram_Non_Bula", 
+                            "payment": 3095000, 
+                            "recieved": 3095000
+                        }, 
+                        {
+                            "name": "Seram_Non_Bula", 
+                            "payment": 6957000, 
+                            "recieved": 6957000
+                        }
+                    ], 
+                    "name": "CITIC"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Kakap", 
+                            "payment": 1392000, 
+                            "recieved": 1393000
+                        }, 
+                        {
+                            "name": "Kakap", 
+                            "payment": 1575000, 
+                            "recieved": 1574000
+                        }, 
+                        {
+                            "name": "Kakap", 
+                            "payment": 1772000, 
+                            "recieved": 1772000
+                        }, 
+                        {
+                            "name": "Kakap", 
+                            "payment": 1949000, 
+                            "recieved": 1949000
+                        }, 
+                        {
+                            "name": "Kakap", 
+                            "payment": 6411000, 
+                            "recieved": 6411000
+                        }, 
+                        {
+                            "name": "Kakap", 
+                            "payment": 8046000, 
+                            "recieved": 8046000
+                        }
+                    ], 
+                    "name": "Novus"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Makassar_Strait", 
+                            "payment": 1605000, 
+                            "recieved": 1605000
+                        }
+                    ], 
+                    "name": "Tiptop"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Tengah_Block_Off._East_Kal.", 
+                            "payment": 1986000, 
+                            "recieved": 1986000
+                        }, 
+                        {
+                            "name": "Tengah_Block_Off._East_Kal.", 
+                            "payment": 2274000, 
+                            "recieved": 2274000
+                        }, 
+                        {
+                            "name": "East_Kalimantan", 
+                            "payment": 9509000, 
+                            "recieved": 9509000
+                        }, 
+                        {
+                            "name": "East_Kalimantan", 
+                            "payment": 10391000, 
+                            "recieved": 10391000
+                        }, 
+                        {
+                            "name": "South_East_Sumatera", 
+                            "payment": 21214000, 
+                            "recieved": 12214000
+                        }, 
+                        {
+                            "name": "South_Natuna_Sea_B", 
+                            "payment": 152738000, 
+                            "recieved": 152738000
+                        }, 
+                        {
+                            "name": "South_Natuna_Sea_B", 
+                            "payment": 177139000, 
+                            "recieved": 177139000
+                        }, 
+                        {
+                            "name": "Mahakam", 
+                            "payment": 1456838000, 
+                            "recieved": 2290007000
+                        }, 
+                        {
+                            "name": "Mahakam", 
+                            "payment": 1873750000, 
+                            "recieved": 1873828000
+                        }, 
+                        {
+                            "name": "Mahakam", 
+                            "payment": 2458388000, 
+                            "recieved": 2458388000
+                        }
+                    ], 
+                    "name": "Inpex"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "South_East_Sumatera", 
+                            "payment": 2049000, 
+                            "recieved": 2049000
+                        }, 
+                        {
+                            "name": "South_East_Sumatera", 
+                            "payment": 3531000, 
+                            "recieved": 6940000
+                        }
+                    ], 
+                    "name": "Fortuna"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Pase", 
+                            "payment": 2881000, 
+                            "recieved": 2881000
+                        }, 
+                        {
+                            "name": "Pase", 
+                            "payment": 6474000, 
+                            "recieved": 6474000
+                        }
+                    ], 
+                    "name": "TrianglePase"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Bawean", 
+                            "payment": 2985000, 
+                            "recieved": 3083000
+                        }, 
+                        {
+                            "name": "Bawean", 
+                            "payment": 4208000, 
+                            "recieved": 4208000
+                        }
+                    ], 
+                    "name": "Camar"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Kakap", 
+                            "payment": 3009000, 
+                            "recieved": 3009000
+                        }, 
+                        {
+                            "name": "Kakap", 
+                            "payment": 3725000, 
+                            "recieved": 3725000
+                        }, 
+                        {
+                            "name": "Natuna_Sea_Block_A", 
+                            "payment": 13637000, 
+                            "recieved": 13637000
+                        }, 
+                        {
+                            "name": "Natuna_Sea_Block_A", 
+                            "payment": 20911000, 
+                            "recieved": 20911000
+                        }, 
+                        {
+                            "name": "Natuna_Sea_Block_A", 
+                            "payment": 21898000, 
+                            "recieved": 21898000
+                        }, 
+                        {
+                            "name": "Natuna_Sea_Block_A", 
+                            "payment": 33577000, 
+                            "recieved": 33577000
+                        }
+                    ], 
+                    "name": "Natuna"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Malacca_Strait", 
+                            "payment": 3038000, 
+                            "recieved": 3038000
+                        }, 
+                        {
+                            "name": "Malacca_Strait", 
+                            "payment": 6959000, 
+                            "recieved": 6959000
+                        }
+                    ], 
+                    "name": "OOGC"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Tungkal", 
+                            "payment": 3173000, 
+                            "recieved": 3173000
+                        }, 
+                        {
+                            "name": "Tungkal", 
+                            "payment": 3301000, 
+                            "recieved": 3301000
+                        }
+                    ], 
+                    "name": "MontDOr"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "MFK", 
+                            "payment": 3211000, 
+                            "recieved": 3211000
+                        }, 
+                        {
+                            "name": "MFK", 
+                            "payment": 8797000, 
+                            "recieved": 9123000
+                        }, 
+                        {
+                            "name": "Siak", 
+                            "payment": 34868000, 
+                            "recieved": 34868000
+                        }, 
+                        {
+                            "name": "Siak", 
+                            "payment": 46967000, 
+                            "recieved": 46967000
+                        }, 
+                        {
+                            "name": "Siak", 
+                            "payment": 62920000, 
+                            "recieved": 62920000
+                        }, 
+                        {
+                            "name": "South_Natuna_Sea_B", 
+                            "payment": 108150000, 
+                            "recieved": 108150000
+                        }, 
+                        {
+                            "name": "Makassar_Strait", 
+                            "payment": 116220000, 
+                            "recieved": 116220000
+                        }, 
+                        {
+                            "name": "South_Natuna_Sea_B", 
+                            "payment": 119885000, 
+                            "recieved": 119885000
+                        }, 
+                        {
+                            "name": "Makassar_Strait", 
+                            "payment": 128022000, 
+                            "recieved": 128022000
+                        }, 
+                        {
+                            "name": "Makassar_Strait", 
+                            "payment": 186646000, 
+                            "recieved": 189152000
+                        }, 
+                        {
+                            "name": "East_Kalimantan", 
+                            "payment": 371121000, 
+                            "recieved": 371120000
+                        }, 
+                        {
+                            "name": "East_Kalimantan", 
+                            "payment": 545349000, 
+                            "recieved": 545349000
+                        }, 
+                        {
+                            "name": "East_Kalimantan", 
+                            "payment": 742277000, 
+                            "recieved": 742277000
+                        }
+                    ], 
+                    "name": "Chevron"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "South_East_Sumatera", 
+                            "payment": 3598000, 
+                            "recieved": 3598000
+                        }, 
+                        {
+                            "name": "Offshore_Northwest_Java", 
+                            "payment": 3733000, 
+                            "recieved": 3733000
+                        }, 
+                        {
+                            "name": "South_East_Sumatera", 
+                            "payment": 4473000, 
+                            "recieved": 4473000
+                        }, 
+                        {
+                            "name": "Offshore_Northwest_Java", 
+                            "payment": 5207000, 
+                            "recieved": 5207000
+                        }
+                    ], 
+                    "name": "Salamander"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Langgak", 
+                            "payment": 3816000, 
+                            "recieved": 3320000
+                        }, 
+                        {
+                            "name": "Langgak", 
+                            "payment": 15488000, 
+                            "recieved": 15488000
+                        }
+                    ], 
+                    "name": "SPR"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Madura", 
+                            "payment": 4310000, 
+                            "recieved": 4310000
+                        }
+                    ], 
+                    "name": "Petrogas"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Muturi", 
+                            "payment": 5088000, 
+                            "recieved": 5088000
+                        }, 
+                        {
+                            "name": "Muturi", 
+                            "payment": 7077000, 
+                            "recieved": 6944000
+                        }
+                    ], 
+                    "name": "IndonesiaNaturalGas"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Raja", 
+                            "payment": 5233000, 
+                            "recieved": 5067000
+                        }
+                    ], 
+                    "name": "GoldenSpike"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Kangean", 
+                            "payment": 5496000, 
+                            "recieved": 5496000
+                        }, 
+                        {
+                            "name": "Kangean", 
+                            "payment": 8098000, 
+                            "recieved": 8097000
+                        }, 
+                        {
+                            "name": "Kangean", 
+                            "payment": 18481000, 
+                            "recieved": 18533000
+                        }
+                    ], 
+                    "name": "Kangean"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Madura", 
+                            "payment": 5792000, 
+                            "recieved": 5792000
+                        }, 
+                        {
+                            "name": "Jabung", 
+                            "payment": 73910000, 
+                            "recieved": 73910000
+                        }, 
+                        {
+                            "name": "Jabung", 
+                            "payment": 109335000, 
+                            "recieved": 109335000
+                        }
+                    ], 
+                    "name": "Petronas"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Jambi_Merang_Block_Ons._Jambi", 
+                            "payment": 6004000, 
+                            "recieved": 6004000
+                        }
+                    ], 
+                    "name": "PacOil"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Sengkang_South_Sulawesi", 
+                            "payment": 7228000, 
+                            "recieved": 7228000
+                        }, 
+                        {
+                            "name": "Sengkang", 
+                            "payment": 13142000, 
+                            "recieved": 13560000
+                        }, 
+                        {
+                            "name": "Sengkang", 
+                            "payment": 13318000, 
+                            "recieved": 13318000
+                        }
+                    ], 
+                    "name": "EnergyEquity"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Madura", 
+                            "payment": 7775000, 
+                            "recieved": 7775000
+                        }, 
+                        {
+                            "name": "Madura_Offshore", 
+                            "payment": 8589000, 
+                            "recieved": 8590000
+                        }, 
+                        {
+                            "name": "Sampang_East_Java_Sea", 
+                            "payment": 13578000, 
+                            "recieved": 13577000
+                        }, 
+                        {
+                            "name": "Sampang", 
+                            "payment": 19590000, 
+                            "recieved": 19590000
+                        }, 
+                        {
+                            "name": "Sampang", 
+                            "payment": 43343000, 
+                            "recieved": 43343000
+                        }, 
+                        {
+                            "name": "Madura", 
+                            "payment": 66448000, 
+                            "recieved": 66448000
+                        }
+                    ], 
+                    "name": "Santos"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Kakap", 
+                            "payment": 8371000, 
+                            "recieved": 8371000
+                        }, 
+                        {
+                            "name": "Kakap", 
+                            "payment": 11128000, 
+                            "recieved": 11128000
+                        }
+                    ], 
+                    "name": "SPC"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Berau", 
+                            "payment": 8468000, 
+                            "recieved": 8468000
+                        }, 
+                        {
+                            "name": "Berau", 
+                            "payment": 11550000, 
+                            "recieved": 11550000
+                        }
+                    ], 
+                    "name": "Nippon"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Kakap", 
+                            "payment": 9190000, 
+                            "recieved": 9190000
+                        }, 
+                        {
+                            "name": "Kakap", 
+                            "payment": 12254000, 
+                            "recieved": 12254000
+                        }, 
+                        {
+                            "name": "Natuna_Sea_Block_A", 
+                            "payment": 231457000, 
+                            "recieved": 245866000
+                        }, 
+                        {
+                            "name": "Natuna_Sea_Block_A", 
+                            "payment": 310532000, 
+                            "recieved": 310532000
+                        }, 
+                        {
+                            "name": "Natuna_Sea_A", 
+                            "payment": 345090000, 
+                            "recieved": 345456000
+                        }
+                    ], 
+                    "name": "PremierOil"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Sanga-Sanga", 
+                            "payment": 9381000, 
+                            "recieved": 9381000
+                        }, 
+                        {
+                            "name": "Sanga-Sanga", 
+                            "payment": 14434000, 
+                            "recieved": 14434000
+                        }
+                    ], 
+                    "name": "Universe"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Berau", 
+                            "payment": 9761000, 
+                            "recieved": 9761000
+                        }, 
+                        {
+                            "name": "Berau", 
+                            "payment": 13313000, 
+                            "recieved": 13313000
+                        }
+                    ], 
+                    "name": "MIB"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "West_Madura", 
+                            "payment": 11378000, 
+                            "recieved": 11378000
+                        }, 
+                        {
+                            "name": "Corridor", 
+                            "payment": 71318000, 
+                            "recieved": 71318000
+                        }, 
+                        {
+                            "name": "Corridor", 
+                            "payment": 83989000, 
+                            "recieved": 83989000
+                        }, 
+                        {
+                            "name": "West_Madura", 
+                            "payment": 110440000, 
+                            "recieved": 110440000
+                        }, 
+                        {
+                            "name": "Offshore_Northwest_Java", 
+                            "payment": 398032000, 
+                            "recieved": 406903000
+                        }, 
+                        {
+                            "name": "Offshore_Northwest_Java", 
+                            "payment": 497209000, 
+                            "recieved": 497209000
+                        }, 
+                        {
+                            "name": "Offshore_Northwest_Java", 
+                            "payment": 863199000, 
+                            "recieved": 863199000
+                        }
+                    ], 
+                    "name": "Pertamina"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Tengah_Block_Off._East_Kal.", 
+                            "payment": 18835000, 
+                            "recieved": 18835000
+                        }, 
+                        {
+                            "name": "Tengah_Block_Off._East_Kal.", 
+                            "payment": 23470000, 
+                            "recieved": 23470000
+                        }, 
+                        {
+                            "name": "West_Madura_Off._East_Java", 
+                            "payment": 215805000, 
+                            "recieved": 215762000
+                        }, 
+                        {
+                            "name": "West_Madura_Off._East_Java", 
+                            "payment": 228964000, 
+                            "recieved": 228964000
+                        }
+                    ], 
+                    "name": "JOA"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Pangkah_East_Java", 
+                            "payment": 18954000, 
+                            "recieved": 18954000
+                        }, 
+                        {
+                            "name": "Pangkah", 
+                            "payment": 20251000, 
+                            "recieved": 20251000
+                        }, 
+                        {
+                            "name": "Pangkah", 
+                            "payment": 34832000, 
+                            "recieved": 34832000
+                        }
+                    ], 
+                    "name": "Hess"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Natuna_Sea_Block_A", 
+                            "payment": 30305000, 
+                            "recieved": 30305000
+                        }, 
+                        {
+                            "name": "Natuna_Sea_Block_A", 
+                            "payment": 48662000, 
+                            "recieved": 48662000
+                        }
+                    ], 
+                    "name": "Kufpec"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Sanga-Sanga", 
+                            "payment": 33686000, 
+                            "recieved": 33686000
+                        }, 
+                        {
+                            "name": "Sanga-Sanga", 
+                            "payment": 51358000, 
+                            "recieved": 51358000
+                        }, 
+                        {
+                            "name": "Sanga-Sanga", 
+                            "payment": 670618000, 
+                            "recieved": 666025000
+                        }, 
+                        {
+                            "name": "Sanga-Sanga", 
+                            "payment": 675289000, 
+                            "recieved": 675289000
+                        }, 
+                        {
+                            "name": "Sanga-Sanga", 
+                            "payment": 851779000, 
+                            "recieved": 851779000
+                        }
+                    ], 
+                    "name": "VirginiaInt"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Sanga-Sanga", 
+                            "payment": 43568000, 
+                            "recieved": 43568000
+                        }, 
+                        {
+                            "name": "Sanga-Sanga", 
+                            "payment": 64387000, 
+                            "recieved": 64387000
+                        }
+                    ], 
+                    "name": "OPICOLI"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Sanga-Sanga", 
+                            "payment": 47981000, 
+                            "recieved": 47982000
+                        }, 
+                        {
+                            "name": "Sanga-Sanga", 
+                            "payment": 78385000, 
+                            "recieved": 77737000
+                        }
+                    ], 
+                    "name": "Lasmo"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Jabung", 
+                            "payment": 76792000, 
+                            "recieved": 76792000
+                        }, 
+                        {
+                            "name": "Jabung", 
+                            "payment": 101801000, 
+                            "recieved": 101801000
+                        }
+                    ], 
+                    "name": "PP"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Kakap", 
+                            "payment": 117583000, 
+                            "recieved": 116257000
+                        }, 
+                        {
+                            "name": "Kakap", 
+                            "payment": 136894000, 
+                            "recieved": 136894000
+                        }, 
+                        {
+                            "name": "Kakap", 
+                            "payment": 155971000, 
+                            "recieved": 155971000
+                        }
+                    ], 
+                    "name": "Star"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Malacca_Strait", 
+                            "payment": 125739000, 
+                            "recieved": 126891000
+                        }
+                    ], 
+                    "name": "Kondur"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "West_Madura", 
+                            "payment": 140695000, 
+                            "recieved": 139671000
+                        }
+                    ], 
+                    "name": "Kodeco"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "Mahakam", 
+                            "payment": 2597509000, 
+                            "recieved": 2597509000
+                        }, 
+                        {
+                            "name": "Mahakam", 
+                            "payment": 4540376000, 
+                            "recieved": 4540376000
+                        }, 
+                        {
+                            "name": "Mahakam", 
+                            "payment": 6275987000, 
+                            "recieved": 6275987000
+                        }
+                    ], 
+                    "name": "Total"
+                }
+            ], 
+            "name": "Indonesia"
+        }
+    ], 
+    "name": "EITI"
+}
