@@ -39,35 +39,22 @@ var arc = d3.svg.arc()
 
 // Keep track of the node that is currently being displayed as the root.
 var node;
+var opts = [
+        {'value': 'total', 'text': 'Total payments (NOK)'},
+        // {'value': 'taxes', 'text': 'Tax payments (NOK)'},
+        // {'value': 'royalties', 'text': 'Royalty payments (NOK)'},
+        // {'value': 'fees', 'text': 'Fee payments (NOK)'},
+        // {'value': 'bonuses', 'text': 'Bonus payments (NOK)'},
+        // {'value': 'gov_entitlements_value', 'text': 'Government entitlements (NOK)'},
+        // {'value': 'gov_entitlements_mmboe', 'text': 'Government entitlements (MMBOE'},
+        {'value': 'count', 'text': 'Count'}
+    ];
 
 // read in data
 d3.json("./data/statoil_proj.json", function (error, root) {
    // Basic setup of page elements.
     node = root;
-    // initializeDropdown();
     initializeBreadcrumbTrail();
-    var opts1 = ['total','taxes','royalties','fees', 'bonuses', 'gov_entitlements_value', 'gov_entitlements_mmboe', 'count'];
-    var opts2 = [
-                  {'value':'total','text':'Total payments (NOK)'},
-                  {'value':'taxes','text':'Tax payments (NOK)'},
-                  {'value':'royalties','text':'Royalty payments (NOK)'},
-                  {'value':'fees','text':'Fee payments (NOK)'},
-                  {'value':'bonuses','text':'Bonus payments (NOK)'},
-                  {'value':'gov_entitlements_value','text':'Government entitlements (NOK)'},
-                  {'value':'gov_entitlements_mmboe','text':'Government entitlements (MMBOE'},
-                  {'value':'count','text':'Count'}
-                ];
-    var dropdown = d3.select("#dropdown").append("select")
-      .attr("class", "form-control");
-      // .on("change", change);
-
-    var options = dropdown.selectAll("option")
-             .data(opts2)
-           .enter()
-             .append("option");
-
-    options.text(function (d) { return d.text; })
-         .attr("value", function (d) { return d.value; });
 
     // Bounding circle underneath the sunburst, to make it easier to detect
     // when the mouse leaves the parent g.
@@ -95,17 +82,28 @@ d3.json("./data/statoil_proj.json", function (error, root) {
     // Get total size of the tree = value of root node from partition.
     totalSize = path.node().__data__.value;
 
-  d3.selectAll("input").on("change", function change() {
-    var value = this.value === "count"
-        ? function () { return 1; }
-        : function (d) { return d.total; };
+    var dropdown = d3.select("#dropdown").append("select")
+        .attr("class", "form-control")
+        .on("change", function change() {
+            var value = this.value === "count"
+                    ? function () { return 1; }
+                    : function (d) { return d[this.value]; };
 
-    path
-        .data(partition.value(value).nodes)
-      .transition()
-        .duration(1000)
-        .attrTween("d", arcTweenData);
-  });
+            path
+                .data(partition.value(value).nodes)
+                .transition()
+                .duration(1000)
+                .attrTween("d", arcTweenData);
+        });
+
+    var options = dropdown.selectAll("option")
+            .data(opts)
+            .enter()
+            .append("option");
+
+    options.text(function (d) { return d.text; })
+         .attr("value", function (d) { return d.value; });
+
 
   function click(d) {
     node = d;
@@ -191,33 +189,6 @@ function initializeBreadcrumbTrail() {
     .style("fill", "#000");
 
 }
-
-// function initializeDropdown() {
-//   var opts1 = ['total','taxes','royalties','fees', 'bonuses', 'gov_entitlements_value', 'gov_entitlements_mmboe', 'count'];
-//   var opts2 = [
-//                 {'value':'total','text':'Total payments (NOK)'},
-//                 {'value':'taxes','text':'Tax payments (NOK)'},
-//                 {'value':'royalties','text':'Royalty payments (NOK)'},
-//                 {'value':'fees','text':'Fee payments (NOK)'},
-//                 {'value':'bonuses','text':'Bonus payments (NOK)'},
-//                 {'value':'gov_entitlements_value','text':'Government entitlements (NOK)'},
-//                 {'value':'gov_entitlements_mmboe','text':'Government entitlements (MMBOE'},
-//                 {'value':'count','text':'Count'}
-//               ];
-//   var dropdown = d3.select("#dropdown").append("select")
-//     .attr("class", "form-control");
-//     // .on("change", change);
-
-//   var options = dropdown.selectAll("option")
-//            .data(opts2)
-//          .enter()
-//            .append("option");
-
-//   options.text(function (d) { return d.text; })
-//        .attr("value", function (d) { return d.value; });
-
-// }
-
 
 // Generate a string that describes the points of a breadcrumb polygon.
 function breadcrumbPoints(d, i) {

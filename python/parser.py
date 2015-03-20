@@ -29,17 +29,19 @@ def parse(sheet_name, sheet, data):
     country_text = get_cell(sheet, 1, 8)
 
     if country_text == 'IRAN':
-        country_code = countries.get('Iran, Islamic Republic of').alpha3
+        country_name = 'Iran, Islamic Republic of'
     elif country_text == 'RUSSIA':
-        country_code = countries.get('Russian Federation').alpha3
+        country_name = 'Russian Federation'
     elif country_text == 'UK':
-        country_code = countries.get('United Kingdom').alpha3
+        country_name = 'United Kingdom'
     elif country_text == 'VENEZUELA':
-        country_code = countries.get('Venezuela, Bolivarian Republic of').alpha3
+        country_name = 'Venezuela, Bolivarian Republic of'
     else:
-        country_code = countries.get(country_text).alpha3
+        country_name = countries.get(country_text).name
 
-    data.append({'name': country_text, 'country_code': country_code, 'children': []})
+    country_code = countries.get(country_name).alpha3
+
+    data.append({'name': 'Country of ' + country_name, 'country_code': country_code, 'children': []})
 
     for row in range(1, nrows):
         if get_cell(sheet, row, 0) == 'Total':

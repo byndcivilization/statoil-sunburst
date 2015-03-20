@@ -2,7 +2,7 @@
     "name":"Statoil Government Payments",
     "children":[
         {
-            "name":"ALGERIA",
+            "name":"Country of Algeria",
             "country_code":"DZA",
             "children":[
                 {
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "name":"ANGOLA",
+            "name":"Country of Angola",
             "country_code":"AGO",
             "children":[
                 {
@@ -47,7 +47,7 @@
             ]
         },
         {
-            "name":"AUSTRALIA",
+            "name":"Country of Australia",
             "country_code":"AUS",
             "children":[
                 {
@@ -68,7 +68,7 @@
             ]
         },
         {
-            "name":"AZERBAIJAN",
+            "name":"Country of Azerbaijan",
             "country_code":"AZE",
             "children":[
                 {
@@ -85,7 +85,7 @@
             ]
         },
         {
-            "name":"BRAZIL",
+            "name":"Country of Brazil",
             "country_code":"BRA",
             "children":[
                 {
@@ -103,7 +103,7 @@
             ]
         },
         {
-            "name":"CANADA",
+            "name":"Country of Canada",
             "country_code":"CAN",
             "children":[
                 {
@@ -146,7 +146,7 @@
             ]
         },
         {
-            "name":"FAROE ISLANDS",
+            "name":"Country of Faroe Islands",
             "country_code":"FRO",
             "children":[
                 {
@@ -157,7 +157,7 @@
             ]
         },
         {
-            "name":"GREENLAND",
+            "name":"Country of Greenland",
             "country_code":"GRL",
             "children":[
                 {
@@ -173,7 +173,7 @@
             ]
         },
         {
-            "name":"INDONESIA",
+            "name":"Country of Indonesia",
             "country_code":"IDN",
             "children":[
                 {
@@ -190,7 +190,7 @@
             ]
         },
         {
-            "name":"IRAN",
+            "name":"Country of Iran, Islamic Republic of",
             "country_code":"IRN",
             "children":[
                 {
@@ -206,7 +206,7 @@
             ]
         },
         {
-            "name":"LIBYA",
+            "name":"Country of Libya",
             "country_code":"LBY",
             "children":[
                 {
@@ -228,7 +228,7 @@
             ]
         },
         {
-            "name":"MOZAMBIQUE",
+            "name":"Country of Mozambique",
             "country_code":"MOZ",
             "children":[
                 {
@@ -239,7 +239,7 @@
             ]
         },
         {
-            "name":"NIGERIA",
+            "name":"Country of Nigeria",
             "country_code":"NGA",
             "children":[
                 {
@@ -262,7 +262,7 @@
             ]
         },
         {
-            "name":"NORWAY",
+            "name":"Country of Norway",
             "country_code":"NOR",
             "children":[
                 {
@@ -278,7 +278,7 @@
             ]
         },
         {
-            "name":"RUSSIA",
+            "name":"Country of Russian Federation",
             "country_code":"RUS",
             "children":[
                 {
@@ -295,7 +295,7 @@
             ]
         },
         {
-            "name":"UK",
+            "name":"Country of United Kingdom",
             "country_code":"GBR",
             "children":[
                 {
@@ -311,7 +311,7 @@
             ]
         },
         {
-            "name":"USA",
+            "name":"Country of United States",
             "country_code":"USA",
             "children":[
                 {
@@ -396,7 +396,7 @@
             ]
         },
         {
-            "name":"VENEZUELA",
+            "name":"Country of Venezuela, Bolivarian Republic of",
             "country_code":"VEN",
             "children":[
                 {

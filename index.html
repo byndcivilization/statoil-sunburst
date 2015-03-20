@@ -22,13 +22,11 @@
 
 
   <body>
-      <div id="main">
-          <div>
-            <h1 class="text-center">2014 Statoil Project Payments</h1>
-          </div>
-          <!-- <div name="dropdown"></div> -->
-    
-         <!--  <select class="form-control">
+    <div id="main">
+      <div>
+        <h1 class="text-center">2014 Statoil Project Payments</h1>
+      <!-- </div>
+          <select class="form-control">
               <option name="mode" value="total">Total payments (NOK)</option>
               <option name="mode" value="taxes">Tax payments (NOK)</option>
               <option name="mode" value="royalties">Royalty payments (NOK)</option>
@@ -37,18 +35,15 @@
               <option name="mode" value="gov_entitlements_value">Government entitlements (NOK)</option>
               <option name="mode" value="gov_entitlements_mmboe">Government entitlements (MMBOE</option>
               <option name="mode" value="count">Count</option>
-
           </select> -->
     
-          <div>
+          <!-- <div>
               <form>
                   <label><input type="radio" name="mode" value="payment"> total</label>
                   <label><input type="radio" name="mode" value="count" checked> Count</label>
                 </form>
-          </div>
-    
-    
-      <div name="dropdown"></div>
+          </div> -->
+      <div id="dropdown"></div>
       <div id="sequence"></div>
         <div id="chart">
           <div id="explanation" style="visibility: hidden;">
@@ -60,12 +55,13 @@
           </div>
         </div>
       </div>
-
+  </body>
+  <footer>
     <!-- jQuery -->
     <script src="//code.jquery.com/jquery.js"></script>
     <!-- Bootstrap JavaScript -->
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
     <script src="scripts/d3.js"></script>
     <script type="text/javascript" src="scripts/main.js"></script>
-  </body>
+  </footer>
 </html>
